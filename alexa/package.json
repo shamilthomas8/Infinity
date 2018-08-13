@@ -1,0 +1,23 @@
+{
+  "name": "infinity-alexa-package",
+  "version": "1.0.0",
+  "description": "Official Alexa Skill for Infinity Club",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-sdk": "^1.0.25"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbyisac/Infinity.git"
+  },
+  "author": "Bobby Isac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobbyisac/Infinity/issues"
+  },
+  "homepage": "https://github.com/bobbyisac/Infinity#readme"
+}
